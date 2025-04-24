@@ -1,0 +1,7 @@
+names:
+- Ball
+- Goal
+- Player
+path: /Users/macbook/Downloads/YoloV8/dataset
+train: train/images
+val: valid/images
